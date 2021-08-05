@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Date created: 12/20/2019
+  ~  Last updated: 12/20/2019
+  ~  Name project: life24h
+  ~  Description:
+  ~  Auth: James Ryan
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/iMore"
+        app:showAsAction="always"
+        android:title="@string/More"
+        android:icon="@drawable/ic_more_vert_white_24dp"/>
+</menu>

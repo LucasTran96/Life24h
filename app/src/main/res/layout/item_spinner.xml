@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Date created: 12/04/2019
+  ~  Last updated: 11/12/2019
+  ~  Name project: Life24h
+  ~  Description:
+  ~  Auth: James Ryan
+  -->
+
+<TextView
+    android:ellipsize="end"
+    android:maxLines="1"
+    android:textColor="@color/colorThemeTextGrey"
+    android:padding="10dp"
+    android:textSize="13sp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_spinner_selector" />

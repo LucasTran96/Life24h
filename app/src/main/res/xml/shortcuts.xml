@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Date created: 02/06/2020
+  ~  Last updated: 02/06/2020
+  ~  Name project: life24h
+  ~  Description:
+  ~  Auth: James Ryan
+  -->
+
+<shortcuts
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:targetApi="25">
+
+    <shortcut
+        android:shortcutId="emergency"
+        android:enabled="true"
+        android:icon="@drawable/ic_alert"
+        android:shortcutShortLabel="@string/Emergency_assistance"
+        android:shortcutLongLabel="@string/Emergency_assistance"
+        android:shortcutDisabledMessage="@string/Emergency_assistance">
+
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.family.life24h"
+            android:targetClass="com.family.life24h.Views.UIEmergencyAssistance" />
+
+        <categories android:name="android.shortcut.conversation" />
+
+    </shortcut>
+
+</shortcuts>

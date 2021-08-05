@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Date created: 12/19/2019
+  ~  Last updated: 12/19/2019
+  ~  Name project: life24h
+  ~  Description:
+  ~  Auth: James Ryan
+  -->
+
+<resources>
+    <dimen name="margin_status_bar">20dp</dimen>
+    <dimen name="margin_start_chat_left">30dp</dimen>
+    <dimen name="margin_end_chat_left">50dp</dimen>
+    <dimen name="margin_end_chat_right">30dp</dimen>
+    <dimen name="margin_start_chat_right">50dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value=" Date created: &amp;#36;today.format(&quot;MM/dd/yyyy&quot;)&#10; Last updated: &amp;#36;file.lastModified.format(&quot;MM/dd/yyyy&quot;)&#10; Name project: &amp;#36;project.name&#10; Description: &#10; Auth: James Ryan" />
+    <option name="myName" value="lbt" />
+  </copyright>
+</component>

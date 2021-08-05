@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Date created: 05/22/2020
+  ~  Last updated: 05/22/2020
+  ~  Name project: life24h
+  ~  Description:
+  ~  Auth: James Ryan
+  -->
+
+<resources>
+    <color name="ic_launcher_life24h_background">#60B7FA</color>
+</resources>

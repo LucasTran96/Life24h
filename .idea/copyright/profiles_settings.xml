@@ -1,0 +1,13 @@
+<component name="CopyrightManager">
+  <settings default="lbt">
+    <module2copyright>
+      <element module="All" copyright="lbt" />
+    </module2copyright>
+    <LanguageOptions name="JAVA">
+      <option name="fileLocation" value="3" />
+    </LanguageOptions>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="relativeBefore" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>

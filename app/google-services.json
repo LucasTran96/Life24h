@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056004592703",
+    "firebase_url": "https://life24hfree.firebaseio.com",
+    "project_id": "life24hfree",
+    "storage_bucket": "life24hfree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056004592703:android:53b9861c9d8298bcc2548a",
+        "android_client_info": {
+          "package_name": "com.family.life24h"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056004592703-acprifev9j1mt4tl2bk1o233tb08pa64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.family.life24h",
+            "certificate_hash": "06f44c7f424a397bbb0a834994ed1f4bc0851712"
+          }
+        },
+        {
+          "client_id": "1056004592703-me9lorgbvhkbigk1n5jpi4ocm98ni9fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtst1HxzRXyf06tkM8hB2uEdNr46ym6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056004592703-me9lorgbvhkbigk1n5jpi4ocm98ni9fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

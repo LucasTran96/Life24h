@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  Date created: 05/22/2020
+  ~  Last updated: 05/22/2020
+  ~  Name project: life24h
+  ~  Description:
+  ~  Auth: James Ryan
+  -->
+
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/ic_launcher_life24h_background"/>
+    <foreground android:drawable="@mipmap/ic_launcher_life24h_foreground"/>
+</adaptive-icon>

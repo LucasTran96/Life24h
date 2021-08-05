@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="14"
-6-->E:\HUY\life24h\nice_spinner\src\main\AndroidManifest.xml
+6-->E:\HUY\Life24h\nice_spinner\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="29" />
-7-->E:\HUY\life24h\nice_spinner\src\main\AndroidManifest.xml
+7-->E:\HUY\Life24h\nice_spinner\src\main\AndroidManifest.xml
 8
 9</manifest>
